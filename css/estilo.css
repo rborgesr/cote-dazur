@@ -227,6 +227,7 @@ footer img{
 	.form-container{
 		align-content: center;
 		left: 55px;
+		float: right;
 	}
 
 	header{
