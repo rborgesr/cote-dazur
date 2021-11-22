@@ -225,8 +225,7 @@ footer img{
 @media screen and (max-width: 560px){
 
 	.form-container{
-		align-content: center;
-		left: 40px;
+		left: 25px;
 	}
 
 	header{
