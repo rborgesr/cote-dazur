@@ -231,6 +231,7 @@ footer img{
 	.bg{
 		height: 500px;
 		background-size: cover;
+		bottom: 39px;
 	}
 
 	header{
