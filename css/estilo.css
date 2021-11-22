@@ -67,6 +67,7 @@ section.cover-form{
 	float:right;
 	width: 400px;
 	margin-right: 40px;
+	margin-left: 60px;
 	height: 110%;
 	position: relative;
 	top: -5%;
@@ -225,6 +226,7 @@ footer img{
 
 	.form-container{
 		align-content: center;
+		left: 40px;
 	}
 
 	header{
