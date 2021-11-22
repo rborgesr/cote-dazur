@@ -239,6 +239,13 @@ footer img{
 		margin-top: 10px;
 	}
 
+	.bg{
+		height: 500px;
+		background-size: cover;
+		background-position: center;
+		background-image: url(../imagem/bg-form.jpg)
+	}
+
 
 
 }
