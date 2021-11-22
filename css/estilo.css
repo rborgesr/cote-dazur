@@ -152,9 +152,10 @@ section.chamada h2{
 	}
 	.form-container{
 		display: inline-block;
-		width: 96%;
+		width: 100%;
 		max-width: 400px;
 		height: auto;
+
 	}
 }
 
@@ -183,6 +184,14 @@ section.chamada h2{
 }
 
 @media screen and (max-width: 768px){
+
+	.form-container{
+	display: inline-block;
+	width: 100%;
+	max-width: 400px;
+	height: auto;
+
+	}
 
 	.flex-mosaico{
 		display: block;
@@ -214,6 +223,14 @@ footer img{
 
 
 @media screen and (max-width: 510px){
+
+	.form-container{
+	display: inline-block;
+	width: 100%;
+	max-width: 400px;
+	height: auto;
+
+	}
 
 	header{
 		text-align: center;
